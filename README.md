@@ -4,5 +4,5 @@
 ### Environment
   - Python >= 3
 ### Installation
-  - Pandas
+  - Pandas:
     pip install pandas
