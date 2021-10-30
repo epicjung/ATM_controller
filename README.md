@@ -28,7 +28,7 @@ Assume that there is a database with bank account information as in the director
 	
 - **Insert card**
 
-	In reality, the ATM controller will recognize a user's card information if a user inserts his/her card. However, this program requires a user to type in his/her card information.
+	In reality, the ATM controller will recognize a user's card information if a user inserts his/her card. Instead, this program requires a user to type in his/her card information.
 	
 	![alt text](https://github.com/epicjung/ATM_controller/blob/main/images/insert_card.PNG?raw=true)
 
