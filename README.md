@@ -5,4 +5,4 @@
   - Python >= 3
 ### Installation
   - Pandas:
-    pip install pandas
+    ```$ pip install pandas```
