@@ -1,10 +1,11 @@
 # ATM_controller
 
 # Requirements
-- environment
-  Python >= 3
-- installation
-  pip install pandas
+Environment:
+  - Python >= 3
+Installation:
+  - Pandas
+    pip install pandas
 
 # Installation
 ```$ ```
