@@ -36,6 +36,6 @@ Assume that there is a database with bank account information as in the director
 	
 	A user can withdraw/deposit money or see the balance by choosing an option by number. As a user withdraws/deposits money, the database (.csv file) will be updated. 
 	
-		![alt text](https://github.com/epicjung/ATM_controller/blob/main/images/options.PNG?raw=true)
+	![alt text](https://github.com/epicjung/ATM_controller/blob/main/images/options.PNG?raw=true)
 
 	
