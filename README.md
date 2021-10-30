@@ -4,4 +4,4 @@
 Python >= 3
 
 # Installation
-```pip install pandas```
+```$ pip install pandas```
